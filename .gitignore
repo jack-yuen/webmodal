@@ -1,3 +1,15 @@
-*.classpath
-*.project
-*.settings/*
+/.settings/
+/target/
+
+#built application files
+*.class
+*.jar
+
+#generated files
+bin/
+gen/
+
+#Eclipse project files
+.classpath
+.project
+.DS_Store
